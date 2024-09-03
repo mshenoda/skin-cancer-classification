@@ -101,7 +101,7 @@ Training results are under models\yolov8s-cls\runs\classify\
 ![alt text](examples/cleaning/image-6.png)
 ![alt text](examples/cleaning/image-7.png)
 
-#### Examples - Predictino
+#### Examples - Prediction:
 ![alt text](examples/prediction/image-1.png)
 ![alt text](examples/prediction/image-2.png)
 
