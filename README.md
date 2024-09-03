@@ -108,7 +108,7 @@ Training results are under models\yolov8s-cls\runs\classify\
 ## Citation
 If you find this useful for your research, please cite:
 ```
-@inproceedings{diffugen,
+@inproceedings{skin-cancer-classification,
   title     = {Skin Cancer Classification},
   author    = {Shenoda, Michael}
   year      = {2024}
