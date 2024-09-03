@@ -101,7 +101,7 @@ class SkinCancerClassifier:
         image_flipped_vertically = cv2.flip(image_cleaned, 0)
         predictions.append(self._inference(image_flipped_vertically))
 
-        # Enhanced image Histogram Stretch
+        # Enhanced image Applying CLAHE
         image_enhanced = apply_clahe(image_flipped_vertically)
         predictions.append(self._inference(image_enhanced))
         

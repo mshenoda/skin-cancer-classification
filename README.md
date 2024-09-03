@@ -1,5 +1,5 @@
 # Skin Cancer Classification
-To classify skin cancer images as benign or malignant
+To classify skin cancer images as benign or malignant.
 
 ## Dataset
 The raw dataset is provided under raw_dataset/ to be used as the main data source. 
@@ -36,6 +36,7 @@ The model used in here is YOLOv8 (small) classification model
 Place all the files in same directory as the following:
 ```
 ├─── raw_dataset/   raw data source
+├─── models/        contains classification models 
 ├─── utils/         contains helper functions and classes
 ├─── demo-classification.ipynb  jupyter notebook demonstrate the classification 
 ├─── demo-preprocessing.ipynb  jupyter notebook run the preprocessing demo 
