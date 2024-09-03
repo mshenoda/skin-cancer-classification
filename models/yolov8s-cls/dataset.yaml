@@ -1,0 +1,11 @@
+# Path to the dataset directory (relative to the location of train.py)
+path: ../clean_dataset
+
+# List of classes
+names:
+  0: Benign
+  1: Malignant
+
+# Path to training and validation images
+train: train  # Training images directory
+val: test     # Validation images directory
